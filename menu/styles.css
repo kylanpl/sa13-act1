@@ -1,0 +1,28 @@
+body {
+    background-color: #8B4513; /* Some darkish brown */
+    font-family: cursive;
+}
+
+section {
+    border: 1px solid #000; /* Black border */
+    padding: 5px;
+}
+
+.food-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.starters {
+    background-color: #f4f4f4; /* Gradient of grays, didn't really know what to use */
+}
+
+.mains {
+    background-color: #e4e4e4;
+}
+
+.desserts {
+    background-color: #d4d4d4;
+}
